@@ -1,0 +1,15 @@
+Datafile Name: CrawlingDownload .TXT file 				
+Datafile Subject: Health, Psychology,				
+Story names: When do Babies Start to Crawl,				
+Reference: Benson, Janette. (1993). Infant Behavior and Development.				
+Authorization: contact author				
+Description: Data from a study of the age at which infants learn to crawl, and whether crawling age is related to the temperature during the month in which babies first try to crawl. The file contains summary data including the number of infants born during each month, the mean and standard deviation of their crawling ages, and the average monthly temperature six months after the birth month.				
+Number of Cases 12				
+Variable Names:				
+birth_month: month of the birth				
+avg_crawling_age: average age in weeks that this group learned to crawl				
+SD: standard deviation of time to crawling for this group				
+n: number of infants in that birth month group				
+temperature: average monthly temperature six months after birth month				
+
+From: http://dasl.datadesk.com/data/view/32
