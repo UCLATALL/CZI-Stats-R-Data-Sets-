@@ -1,0 +1,14 @@
+Datafile Name: Instructor BehaviorDownload .TXT file 
+Datafile Subject: Psychology, Education,
+Story names: What Makes a Good Teacher,
+Reference: None at this time
+Authorization: free use
+Description: A survey of business students at nine colleges in the United States was taken to determine the instructor behaviors that the students feel are more likely to contribute to their academic success. 215 undergraduate students enrolled in business classes were asked to list the instructor classroom behaviors they felt were important to their academic success. A questionnaire consisting of 51 instructor behaviors was studied. The data are for 735 students from nine business colleges randomly selected from the 1990/1991 AACSB Handbook.
+Number of Cases 51
+Variable Names:
+Behavior: The 51 instructor behaviors on the survey
+IM: Number of students who responed "Important for academic success"
+NU: Number of students who responed "Neither important nor unimportant for academic success"
+NI: Number of students who responed "Not important for academic success"
+
+From: http://dasl.datadesk.com/data/view/67
