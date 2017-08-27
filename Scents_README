@@ -1,0 +1,23 @@
+Datafile Name: ScentsDownload .TXT file 
+Datafile Subject: Psychology,
+Story names: Scents and Learning,
+Reference: Hirsch, A. R., and Johnston, L. H. "Odors and Learning," Smell & Taste Treatment and Research Foundation, Chicago.
+Authorization: Contact authors
+Description: Data on the time subjects required to complete a pencil and paper maze when they were smelling a floral scent and when they were not.
+Number of Cases 21
+Variable Names:
+ID:
+Sex: M=male, F=female
+Age: Age in years
+Smoker: Y if subject smoked, N if did not
+Opinion: "pos" if subject found the odor inherently positive, "indiff" if indifferent, "neg" if inherently negative
+Order: 1 if did unscented trials first, 2 if did scented trials first
+U-Trial 1: length of time required for first unscented trial
+U-Trial 2 : length of time required for second unscented trial
+U-Trial 3: length of time required for third unscented trial
+S-Trial 1 : length of time required for first scented trial
+S-Trial 2 : length of time required for second scented trial
+S-Trial 3: length of time required for third scented trial
+
+
+From: http://dasl.datadesk.com/data/view/100
